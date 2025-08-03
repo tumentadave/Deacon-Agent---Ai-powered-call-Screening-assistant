@@ -2,17 +2,12 @@
 
 An AI-powered call screening application built with Flutter that uses OpenAI's advanced AI capabilities to analyze incoming calls and provide intelligent screening decisions. 
 
-Note, you can set any screen as the Home Screen on this project as no home screen was defined yet.
+Note, This Version is not the Final, More updates and Fixes will be added progressively...
+-you can set any screen as the Home Screen on this project as no home screen was defined yet.
+-Make Necessary permissions configurations to grant access to whatever device your target users will be using.
+-You can configure it to use device storage or firebase/supabase
 
-
-
-Make Necessary permissions configurations to grant access to whatever device your target users will be using.
-
-
-
-You can configure it to use device storage or firebase/supabase
-
-Set trigger words such that when the Ai analyzes the conversation, if trigger words are mentioned , eg "Investment, Crypto" etc etc, the call is recorded and forwarded to the local law enforcement's Systems (can be add through webhooks or api) ... 
+-Connecting this system to Lawenforcement Agencies : Set trigger words such that when the Ai analyzes the conversation, if trigger words are mentioned , eg "Investment, Crypto" etc etc, the call is recorded and forwarded to the local law enforcement's Systems (can be add through webhooks or api) ... 
 
 ## Features
 
